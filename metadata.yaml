@@ -1,0 +1,36 @@
+_repo: A-Course-of-Mechanical-Magnetical-Optical-Hydrostatical-and-Pneumatical-Experimentsread-by-Wi__44019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44019-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Hauksbee, Francis
+    birthdate: 1687
+    deathdate: 1763
+    gutenberg_agent_id: '42522'
+    url: http://www.gutenberg.org/2009/agents/42522
+  - agent_name: Whiston, William
+    birthdate: 1667
+    deathdate: 1752
+    gutenberg_agent_id: '1051'
+    url: http://www.gutenberg.org/2009/agents/1051
+    wikipedia: http://en.wikipedia.org/wiki/William_Whiston
+description: ''
+gutenberg_issued: '2013-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Physics -- Experiments'
+- !lcsh 'Physics -- Early works to 1800'
+- !lcsh 'Physical instruments'
+title: "A Course of Mechanical, Magnetical, Optical, Hydrostatical and Pneumatical\
+  \ Experiments\r\nperform'd by Francis Hauksbee, and the Explanatory Lectures read\
+  \ by William Whiston, M.A."
+url: http://www.gutenberg.org/ebooks/44019
